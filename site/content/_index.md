@@ -24,22 +24,22 @@ intro:
 products:
   - image: img/reshot-icon-scooter-delivery-uc2x3qsbp4.svg
     text: >-
-      Nuestra misión
+      Nuestra misión: 
 
 
       Brindar soluciones rápidas, confiables y personalizadas para satisfacer las necesidades de nuestros clientes, haciendo que sus actividades diarias sean más simples y libres de estrés.
   - image: img/reshot-icon-tracking-delivery-ta5z9nd7q2.svg
     text: >-
-      Nuestra visión
+      Nuestra visión: 
 
 
-      Ser reconocidos como la empresa líder en mandados y servicios de delivery en Posadas y la región, destacándonos por nuestra calidad, eficiencia y compromiso con la satisfacción del cliente.
+      Ser la empresa líder en mandados y servicios de delivery en Posadas y la región, destacándonos por nuestra calidad, eficiencia y compromiso con la satisfacción del cliente.
 values:
   heading: Nuestros Valores
   text: >-
-    Responsabilidad: Tratamos cada mandado como si fuera propio.
+    Responsabilidad: Tratamos cada mandado como propio.
 
-    Compromiso: Nos dedicamos a brindar un servicio de excelencia, ajustado a tus necesidades.
+    Compromiso: Brindamos un servicio de excelencia, ajustado a tus necesidades.
 
     Eficiencia: Hacemos que cada encargo sea rápido y seguro.
 
