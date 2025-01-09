@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 logo: img/logo_no_bg-removebg-preview.png
 contact_entries:
   - heading: Ubicación
