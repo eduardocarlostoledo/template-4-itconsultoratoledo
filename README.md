@@ -4,12 +4,6 @@ This is a small business template built with [Hugo](https://gohugo.io) and [Deca
 
 https://template-4-itconsultoratoledo.netlify.app/
 
-## Getting started
-
-Use our deploy button to get your own copy of the repository. 
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/decaporg/one-click-hugo-cms&stack=cms)
-
 This will setup everything needed for running the CMS:
 
 * A new repository in your GitHub account with the code
