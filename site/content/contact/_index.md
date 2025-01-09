@@ -1,19 +1,20 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/logo_no_bg-removebg-preview.png
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Ubicación
+    text: Villa Sarita - Posadas -Misiones
+  - heading: Horario de atención
+    text: Lunes a Lunes de 08:00hs a 00:00hs
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Cómo te ayudamos?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Utiliza los siguientes medios de contacto para cualquier consulta sobre nuestros servicios de cadetería, pagos, compras o delivery. Estamos aquí para asistirte:
+
+
+
+📞 Teléfono: 3764 89-8906
+
+💬 WhatsApp: [https://wa.me/543764898906](wa.me/5493764898906)
